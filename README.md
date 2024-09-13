@@ -1,2 +1,2 @@
-# terse service
- this is  my  company's  website
+# Adelphi for payterse
+  This the app components for payterse
